@@ -16,7 +16,7 @@ This project provides a clear, data-driven understanding of the Egyptian used ca
 |── Data Cleaning
 |── EDA & Visualization
 |── ML Model Training
-|── Deployment (Streamlit App)'
+|── Deployment (Streamlit App)
 ```
 
 
