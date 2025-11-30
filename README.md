@@ -10,13 +10,14 @@ To build a complete system that collects real market data, analyzes it, and crea
 
 **The Value:**
 This project provides a clear, data-driven understanding of the Egyptian used car market, solving the problem of unclear pricing.
-
+```
 📦 Project Architecture
 |── Web Scraping
 |── Data Cleaning
 |── EDA & Visualization
 |── ML Model Training
-|── Deployment (Streamlit App)
+|── Deployment (Streamlit App)'
+```
 
 
 ## ⚙️ Workflow and Detailed Phases
